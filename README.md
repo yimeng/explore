@@ -6,7 +6,7 @@
 * [privacyidea](https://www.privacyidea.org) 一个管理公钥的工具,似乎还可以加二次认证.(简易的跳板机?)
 
 参考链接:
-[Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)
-[ssh-agent 使用指南](http://segmentfault.com/a/1190000002449006)
-[SSH 密钥管理与 privacyIDEA](https://websetnet.com/zh/ssh-key-management-with-privacyidea/)
-[SSH 密钥类型的的选择（RSA， DSA or Other）](http://blog.sina.com.cn/s/blog_6f31085901015agu.html)
+* [Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)
+* [ssh-agent 使用指南](http://segmentfault.com/a/1190000002449006)
+* [SSH 密钥管理与 privacyIDEA](https://websetnet.com/zh/ssh-key-management-with-privacyidea/)
+* [SSH 密钥类型的的选择（RSA， DSA or Other）](http://blog.sina.com.cn/s/blog_6f31085901015agu.html)

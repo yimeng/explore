@@ -11,6 +11,9 @@
 
 ## MacOS
 
+## devops
+* [Bats](https://github.com/sstephenson/bats): Bash Automated Testing System
+
 * karabiner 改建专用 里面有一些可以借鉴的快捷键和操作习惯
 
 参考链接:
@@ -18,3 +21,4 @@
 * [ssh-agent 使用指南](http://segmentfault.com/a/1190000002449006)
 * [SSH 密钥管理与 privacyIDEA](https://websetnet.com/zh/ssh-key-management-with-privacyidea/)
 * [SSH 密钥类型的的选择（RSA， DSA or Other）](http://blog.sina.com.cn/s/blog_6f31085901015agu.html)
+* [大量命令行工具、框架和资料](https://toutiao.io/posts/4kh80/preview)

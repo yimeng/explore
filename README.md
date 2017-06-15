@@ -5,6 +5,14 @@
 * [keychain](https://wiki.gentoo.org/wiki/Keychain) 一个弥补ssh-agent不足的shell脚本 
 * [privacyidea](https://www.privacyidea.org) 一个管理公钥的工具,似乎还可以加二次认证.(简易的跳板机?)
 
+## ruby相关
+* rbenv 插件形式管理ruby 原生有curl的证书问题。需要替换源。
+* rvm 社区说太重了。
+
+## MacOS
+
+* karabiner 改建专用 里面有一些可以借鉴的快捷键和操作习惯
+
 参考链接:
 * [Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)
 * [ssh-agent 使用指南](http://segmentfault.com/a/1190000002449006)

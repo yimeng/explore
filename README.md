@@ -11,13 +11,14 @@
 
 ## MacOS
 
+* [terminal-notifier](https://github.com/julienXX/terminal-notifier) 充分利用通知条的命令行小程序
+* [karabiner](https://pqrs.org/osx/karabiner/) 改建专用 里面有一些可以借鉴的快捷键和操作习惯
+
 ## devops
 * [Bats](https://github.com/sstephenson/bats): Bash Automated Testing System
-
-* karabiner 改建专用 里面有一些可以借鉴的快捷键和操作习惯
-* http://serverspec.org
-* http://rspec.info
-* https://cucumber.io
+* [serverspec]（http://serverspec.org） puppet的自动化测试工具
+* [rspec](http://rspec.info) ruby的自动化测试工具
+* [cucumber](https://cucumber.io)
 
 参考链接:
 * [Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)

@@ -16,7 +16,7 @@
 
 ## devops
 * [Bats](https://github.com/sstephenson/bats): Bash Automated Testing System
-* [serverspec]（http://serverspec.org） puppet的自动化测试工具
+* [serverspec](http://serverspec.org） puppet的自动化测试工具
 * [rspec](http://rspec.info) ruby的自动化测试工具
 * [cucumber](https://cucumber.io)
 

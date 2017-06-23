@@ -20,6 +20,9 @@
 * [rspec](http://rspec.info) ruby的自动化测试工具
 * [cucumber](https://cucumber.io)
 
+## 个人效率
+* [taskwarrior](https://taskwarrior.org) 一个命令行的todo工具
+
 参考链接:
 * [Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)
 * [ssh-agent 使用指南](http://segmentfault.com/a/1190000002449006)

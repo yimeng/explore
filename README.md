@@ -3,6 +3,7 @@
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) 总结了很多工具
 ## 网站分享
 * [stackshare](https://stackshare.io)
+* [packagecloud](https://packagecloud.io)
 
 ## ssh相关
 * ssh-agent 可以把私钥转发的工具,比如A(私钥ssh-agent)=>B(公钥 ssh配置开转发)=>C(公钥)

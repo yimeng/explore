@@ -29,6 +29,7 @@
 * [KeyBox](http://sshkeybox.com/index.html) key管理，附带二次认证等等
 * [pulp](http://pulpproject.org/) yum同步工具
 * [redash](https://redash.io) 数据可视化神器，类似于kibana，但更灵活高效。
+* [stackstorm](https://stackstorm.com) 运维里的IFTTT
 
 ## 个人效率
 * [taskwarrior](https://taskwarrior.org) 一个命令行的todo工具

@@ -4,6 +4,7 @@
 * ssh-add 配合ssh-agent可以把私钥缓存起来,并且不用输入passphrase,但传统加bash profile的做法还是有一些不足,比如每个终端都要起一个ssh-agent,需要重复输入passphrase
 * [keychain](https://wiki.gentoo.org/wiki/Keychain) 一个弥补ssh-agent不足的shell脚本 
 * [privacyidea](https://www.privacyidea.org) 一个管理公钥的工具,似乎还可以加二次认证.(简易的跳板机?)
+* sshuttle 一个ssh代理的"路由"软件 sshuttle -r root@eip 192.168.0.0/16 -D
 
 参考链接:
 * [Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)

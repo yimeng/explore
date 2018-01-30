@@ -37,6 +37,7 @@
 
 ## 个人效率
 * [taskwarrior](https://taskwarrior.org) 一个命令行的todo工具
+* [huginn](https://github.com/huginn/huginn) 一个个人的ifttt工具
 
 ## 有意思的东西
 * [为什么prometheus默认端口是9090，里面有一堆列表](https://github.com/prometheus/prometheus/wiki/Default-port-allocations)

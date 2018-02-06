@@ -34,6 +34,7 @@
 * [mmock](https://github.com/jmartin82/mmock) golang写的mock工具
 * [testinfra](https://github.com/philpep/testinfra) python自动化测试工具
 * [molecule](https://github.com/metacloud/molecule) ansible role自动化测试工具
+* [caddy](https://caddyserver.com) golang写的http server，傻瓜化配置https
 
 ## 个人效率
 * [taskwarrior](https://taskwarrior.org) 一个命令行的todo工具

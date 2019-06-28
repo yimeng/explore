@@ -36,6 +36,7 @@
 * [molecule](https://github.com/metacloud/molecule) ansible role自动化测试工具
 * [caddy](https://caddyserver.com) golang写的http server，傻瓜化配置https
 * [graphql-engine](https://github.com/hasura/graphql-engine) 使用Postgres数据库自动生成前端GraphQL的工具，可以用来做CMDB。
+* [Traefik](https://traefik.io) 云原生时代的nginx
 
 ## 个人效率
 * [taskwarrior](https://taskwarrior.org) 一个命令行的todo工具

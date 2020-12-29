@@ -39,6 +39,8 @@
 * [Traefik](https://traefik.io) 云原生时代的nginx
 * [sampler](https://github.com/sqshq/sampler) 命令行的监控dashboard
 * [statusfy](https://statusfy.co) 开源的系统状态dashboard
+* [shellcheck](https://www.shellcheck.net/#) 检测shell语法的工具
+* [concourse](https://concourse-ci.org) 一个流水线即代码的工具
 
 ## 个人效率
 * [taskwarrior](https://taskwarrior.org) 一个命令行的todo工具

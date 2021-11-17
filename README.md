@@ -41,6 +41,8 @@
 * [statusfy](https://statusfy.co) 开源的系统状态dashboard
 * [shellcheck](https://www.shellcheck.net/#) 检测shell语法的工具
 * [concourse](https://concourse-ci.org) 一个流水线即代码的工具
+* [locust](https://locust.io) python压力测试的工具 有简单的展示界面
+* [boomer](https://github.com/myzhan/boomer) 用golang写的locust工具 有grafana展示界面
 
 ## 个人效率
 * [taskwarrior](https://taskwarrior.org) 一个命令行的todo工具

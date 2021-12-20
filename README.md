@@ -62,7 +62,8 @@
 * [xca] (https://sourceforge.net/projects/xca) 一个PKI体系的GUI客户端
 * [cfssl] (https://github.com/cloudflare/cfssl) cloudflare家的PKI/CA工具 命令行下相当好用
 
-## 
+## 博客
+* [n4mine](https://n4mine.github.io) 一个滴滴的哥们，监控的内容很有价值
 
 参考链接:
 * [Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)

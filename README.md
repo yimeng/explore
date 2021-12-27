@@ -68,7 +68,7 @@
 
 ## demo
 * [podinfo](https://github.com/stefanprodan/podinfo) 一个用golang写的演示程序，适合搭配flux使用：）
-* 
+* [k3d-demo](https://github.com/iwilltry42/k3d-demo) k3d的一些演示场景
 
 参考链接:
 * [Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)

@@ -71,6 +71,8 @@
 * [k3d-demo](https://github.com/iwilltry42/k3d-demo) k3d的一些演示场景
 * [guestbook](https://kubernetes.io/zh/docs/tutorials/stateless-application/guestbook/) k8s官方的guestbook demo
 * [Sock Shop](https://github.com/microservices-demo/microservices-demo) Weaveworks家的demo
+* [Car-Hailing APP](https://github.com/Johnny850807/Waber)
+* [混沌工程&可观测性](https://mp.weixin.qq.com/s/Tv14Er8WDnHceGdUHhpJzg)
 
 参考链接:
 * [Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)

@@ -66,6 +66,9 @@
 ## 博客
 * [n4mine](https://n4mine.github.io) 一个滴滴的哥们，监控的内容很有价值
 
+## k8s
+* [shell-operator](https://github.com/flant/shell-operator#kubernetes) 使用k8s事件来触发shell命令的东西
+
 ## demo
 * [podinfo](https://github.com/stefanprodan/podinfo) 一个用golang写的演示程序，适合搭配flux使用：）
 * [k3d-demo](https://github.com/iwilltry42/k3d-demo) k3d的一些演示场景
@@ -74,9 +77,12 @@
 * [Car-Hailing APP](https://github.com/Johnny850807/Waber)
 * [混沌工程&可观测性](https://mp.weixin.qq.com/s/Tv14Er8WDnHceGdUHhpJzg)
 
-参考链接:
+## 参考链接:
 * [Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)
 * [ssh-agent 使用指南](http://segmentfault.com/a/1190000002449006)
 * [SSH 密钥管理与 privacyIDEA](https://websetnet.com/zh/ssh-key-management-with-privacyidea/)
 * [SSH 密钥类型的的选择（RSA， DSA or Other）](http://blog.sina.com.cn/s/blog_6f31085901015agu.html)
 * [大量命令行工具、框架和资料](https://toutiao.io/posts/4kh80/preview)
+
+## 博客
+* [伪架构师](https://blog.fleeto.us/#posts)

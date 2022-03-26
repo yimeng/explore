@@ -76,6 +76,7 @@
 * [Sock Shop](https://github.com/microservices-demo/microservices-demo) Weaveworks家的demo
 * [Car-Hailing APP](https://github.com/Johnny850807/Waber)
 * [混沌工程&可观测性](https://mp.weixin.qq.com/s/Tv14Er8WDnHceGdUHhpJzg)
+* [book-store](https://github.com/devdcores/BookStoreApp-Distributed-Application)
 
 ## 参考链接:
 * [Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases/)

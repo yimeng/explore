@@ -44,6 +44,7 @@
 * [locust](https://locust.io) python压力测试的工具 有简单的展示界面
 * [boomer](https://github.com/myzhan/boomer) 用golang写的locust工具 有grafana展示界面
 * [bytebase](https://bytebase.com) SQL审核和Schema管理工具
+* [xbin](http://xbin.io) 本地没有的命令可以扔到远程执行
 
 ## 个人效率
 * [taskwarrior](https://taskwarrior.org) 一个命令行的todo工具

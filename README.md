@@ -45,6 +45,8 @@
 * [boomer](https://github.com/myzhan/boomer) 用golang写的locust工具 有grafana展示界面
 * [bytebase](https://bytebase.com) SQL审核和Schema管理工具
 * [xbin](http://xbin.io) 本地没有的命令可以扔到远程执行
+* [rundeck](https://www.rundeck.com) 自动化工具
+* [stackstorm](https://stackstorm.com) 事件驱动的自动化工具
 
 ## 个人效率
 * [taskwarrior](https://taskwarrior.org) 一个命令行的todo工具
